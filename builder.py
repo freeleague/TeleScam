@@ -408,4 +408,4 @@ bot.polling()
 		""")
 	f.close()
 	input("Файл tiktok.py сохранен! Нажмите Enter")
-#Developer: @lamer112311
+#Developer: @sakh7_bot
