@@ -11,7 +11,7 @@ def clear():
 	elif platform == "win32":
 		os.system('cls')
 clear()
-en = base64.b64decode('Q29kZWQgYnkgQGxhbWVyMTEyMzEx')
+en = base64.b64decode('Q29kZWQgYnkgQHNha2g3X2JvdA==')
 print(en.decode("UTF-8"))
 print(Fore.GREEN + '''
          
